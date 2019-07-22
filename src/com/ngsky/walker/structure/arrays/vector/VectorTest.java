@@ -1,4 +1,4 @@
-package com.ngsky.walker.arrays.vector;
+package com.ngsky.walker.structure.arrays.vector;
 
 import java.util.Arrays;
 
