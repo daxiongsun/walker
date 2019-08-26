@@ -2,7 +2,7 @@ package com.ngsky.walker.algorithm;
 
 /**
  * @Description: 进制转换器
- * @Author: sunyx@lenovocloud.com
+ * @Author: ngsky
  * @CreateDate: 2019/8/12 14:08
  */
 public class HexConver {

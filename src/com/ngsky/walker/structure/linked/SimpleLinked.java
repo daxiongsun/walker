@@ -2,7 +2,7 @@ package com.ngsky.walker.structure.linked;
 
 /**
  * @Description:
- * @Author: sunyx@lenovocloud.com
+ * @Author: ngsky
  * @CreateDate: 2019/8/14 9:50
  */
 public class SimpleLinked {

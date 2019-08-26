@@ -2,7 +2,7 @@ package com.ngsky.walker.leetcode.n903;
 
 /**
  * @Description:
- * @Author: sunyx@lenovocloud.com
+ * @Author: ngsky
  * @CreateDate: 2019/7/24 12:43
  *
  * 题意：给定一个 S 序列，有 D 和 I 两个元素组成.D：表示递减, P[i] > P[i+1]; I:表示递增,P[i] < P[i+1]. S 元素个数为 n.

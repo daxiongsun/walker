@@ -2,7 +2,7 @@ package com.ngsky.walker.GoF.adapter.objectadapter;
 
 /**
  * @Description:
- * @Author: sunyx@lenovocloud.com
+ * @Author: ngsky
  * @CreateDate: 2019/7/29 9:43
  */
 public class Usber implements Usb {

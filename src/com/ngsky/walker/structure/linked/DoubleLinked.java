@@ -2,7 +2,7 @@ package com.ngsky.walker.structure.linked;
 
 /**
  * @Description: double linked list
- * @Author: sunyx@lenovocloud.com
+ * @Author: ngsky
  * @CreateDate: 2019/8/9 13:54
  */
 public class DoubleLinked<E> {
