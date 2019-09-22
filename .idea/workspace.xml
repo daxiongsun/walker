@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5370de1-77e6-4aa9-b574-d679ee35401e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/chapter4/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/kmp/KMPSimple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/OpticalAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/OpticalAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/OpticalMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/classadapter/OpticalMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Ps2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Ps2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Usb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Usb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/UsbAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/UsbAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Usber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/GoF/adapter/objectadapter/Usber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/HexConver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/HexConver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/leetcode/n903/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/leetcode/n903/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/structure/linked/DoubleLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/structure/linked/DoubleLinked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/structure/linked/SimpleLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/structure/linked/SimpleLinked.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lenovo/servicecenter-LTS/java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,7 +43,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.KMPSimple">
+    <configuration name="KMPSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.walker.algorithm.kmp.KMPSimple" />
+      <module name="walker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ngsky.walker.algorithm.kmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ngsky.walker.algorithm.chapter4.MaxSubArray" />
       <module name="walker" />
@@ -95,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KMPSimple" />
         <item itemvalue="Application.MaxSubArray" />
       </list>
     </recent_temporary>
@@ -113,7 +115,10 @@
       <workItem from="1565587343477" duration="1146000" />
       <workItem from="1565590059822" duration="2491000" />
       <workItem from="1565746653183" duration="6496000" />
-      <workItem from="1566825774658" duration="4053000" />
+      <workItem from="1566825774658" duration="4692000" />
+      <workItem from="1566873412643" duration="1571000" />
+      <workItem from="1566878062529" duration="859000" />
+      <workItem from="1569096219585" duration="7992000" />
     </task>
     <servers />
   </component>
@@ -125,21 +130,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/ngsky/walker/algorithm/chapter4/MaxSubArray.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
