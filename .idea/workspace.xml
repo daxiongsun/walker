@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="737c5249-8343-48f3-9f20-48d9b24bba9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/sorts/SORTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/sorts/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/sorts/SelectSort.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ngsky/walker/codeforces/p1221/A2048Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ngsky/walker/codeforces/p1221/A2048Game2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/kmp/KMPSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngsky/walker/algorithm/kmp/KMPSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +39,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="A2048Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.walker.codeforces.p1221.A2048Game" />
+      <module name="walker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ngsky.walker.codeforces.p1221.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A2048Game" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />

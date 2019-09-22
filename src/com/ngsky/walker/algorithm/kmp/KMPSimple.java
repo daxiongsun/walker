@@ -11,7 +11,7 @@ package com.ngsky.walker.algorithm.kmp;
  */
 public class KMPSimple {
     public int solution(String A, String B){
-
+        return 0;
     }
 
     public static void main(String[] args){
